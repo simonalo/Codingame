@@ -1,6 +1,6 @@
 mime_table = {}
 n = int(input())  # Number of elements which make up the association table.
-q = int(input())  # Number Q of file names to be analyzed.
+q = int(input())  # Number q of file names to be analyzed.
 
 for i in range(n):
     # ext: file extension
